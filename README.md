@@ -7,7 +7,7 @@ A React Native (Expo) demo app featuring:
 - **Local Notifications**: Schedule and handle notifications with Expo.
 
 > **Demo Video:**  
-👉 [Watch Demo Video](https://asset.cloudinary.com/dfewioop6/c80fbe5b9a3bd814d9919c86da1f7fba)
+👉 [Watch Demo Video](https://player.cloudinary.com/embed/?cloud_name=dfewioop6&public_id=Screen_Recording_2025-08-30_at_10.15.19_PM_pwdxg7&profile=cld-looping)
 
 
 ## Project Structure
