@@ -2,6 +2,8 @@
   "expo": {
     "name": "HouseofEdTechAssignment",
     "slug": "HouseofEdTechAssignment",
+    "owner": "kunalprajapati0102",
+    "privacy": "public",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,10 +22,22 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.kunalprajapati0102.HouseofEdTechAssignment"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f4d1ec0e-f90d-4920-bd8f-27c595b34e7c"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/f4d1ec0e-f90d-4920-bd8f-27c595b34e7c"
     }
   }
 }
