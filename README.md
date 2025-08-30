@@ -26,7 +26,7 @@ npm start
 Live Link:
 - expo go project link(paste this in the expo go app to run the project) : exp://u.expo.dev/f4d1ec0e-f90d-4920-bd8f-27c595b34e7c/group/1fef2265-bbb0-46ad-b7c6-0bdd03060649
 
-- Android Apk file: https://expo.dev/artifacts/eas/njEoL86sZVmVxYJVNt68Fu.apk
+- Android Apk file (apk also there in repository if link is not working use that: https://expo.dev/artifacts/eas/njEoL86sZVmVxYJVNt68Fu.apk
 
 - Android aab file: https://expo.dev/artifacts/eas/w4ZuR5NL4yuJXupTDdbqVD.aab
 ```
